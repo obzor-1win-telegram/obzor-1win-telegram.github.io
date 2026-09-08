@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://obzor-1win-telegram.github.io/sitemap.xml
